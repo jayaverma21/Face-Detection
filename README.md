@@ -36,7 +36,7 @@ This Python script utilizes OpenCV to detect faces from a webcam feed and provid
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/jayaverma21/Face-Detection>
 2. Install the required libraries:
 
   
